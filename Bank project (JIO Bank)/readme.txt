@@ -9,7 +9,7 @@ From this, derive the classes cur_acct and sav_acct to make them more specific t
 requirements. 
 
 Features:
-
+---------
 (a) Accept deposit from a customer and update the balance.
 (b) Display the balance.
 (c) Compute and deposit interest.
@@ -17,5 +17,6 @@ Features:
 (e) Check for the minimum balance, impose penalty, necessary, and update the balance.
 
 Disadvantages:
+--------------
 (a) Can Manage only one customer activity
 (b) No database and File Handling is used, So data is temporary
