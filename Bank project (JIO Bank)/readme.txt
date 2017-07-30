@@ -15,3 +15,7 @@ Features:
 (c) Compute and deposit interest.
 (d) Permit withdrawal and update the balance.
 (e) Check for the minimum balance, impose penalty, necessary, and update the balance.
+
+Disadvantages:
+(a) Can Manage only one customer activity
+(b) No database and File Handling is used, So data is temporary
