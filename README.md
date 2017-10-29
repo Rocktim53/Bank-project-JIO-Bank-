@@ -29,6 +29,19 @@ Prerequisite
 	(a) Can Manage only one customer activity
 	(b) No database and File Handling is used, So data is temporary
 
-  ## Screen Shot
+  # Screen Shot
 
-  
+   ## Login Page
+  ![Sample Portfolio](https://github.com/Rocktim53/Bank-project-JIO-Bank-/blob/master/screenshot/login.png)
+
+   ## Home Page
+   ![Sample Portfolio](https://github.com/Rocktim53/Bank-project-JIO-Bank-/blob/master/screenshot/home.png)
+
+   ## Registration Page
+   ![Sample Portfolio](https://github.com/Rocktim53/Bank-project-JIO-Bank-/blob/master/screenshot/registration.png)
+
+   ## Menu Page
+   ![Sample Portfolio](https://github.com/Rocktim53/Bank-project-JIO-Bank-/blob/master/screenshot/transactionMenu.png)
+
+   ## User Information Page
+   ![Sample Portfolio](https://github.com/Rocktim53/Bank-project-JIO-Bank-/blob/master/screenshot/user%20detail.png)
